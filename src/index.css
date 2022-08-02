@@ -16,6 +16,7 @@
 
 #prof-pic {
   max-width: 300px;
+  max-height: fit-content;
 }
 
 #nav-buttons a:hover {
@@ -34,7 +35,6 @@
 
 #short-contact-info {
   display: flex;
-  padding-bottom: 15px;
   font-size: 15px;
   justify-content: center;
 }
@@ -42,4 +42,9 @@
 .font-wight-bold {
   font-weight: bold;
   color: purple;
+}
+
+.contact-info {
+  padding: 10px;
+  margin: 20px;
 }

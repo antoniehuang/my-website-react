@@ -32,27 +32,29 @@ const AboutMe = () => {
                                 agents.
                             </p>
                             <p>You can connect with me by clicking the icons below!</p>
-                            <div id='icons'>
-                                <a href="https://www.linkedin.com/in/antonie-yu-chi-huang/" target="_blank" rel="noopener noreferrer">
-                                    <FaLinkedinIn size='2.5em'
-                                        color='#999999'
-                                        onMouseOver={({ target }) => target.style.color = "plum"}
-                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
-                                </a>
-                                <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
-                                    <FaGithub size='2.5em'
-                                        color='#999999'
-                                        onMouseOver={({ target }) => target.style.color = "plum"}
-                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
-                                </a>
-                                <a href="https://twitter.com/antoniehuang" target="_blank" rel="noopener noreferrer">
-                                    <FaTwitter size='2.5em'
-                                        color='#999999'
-                                        onMouseOver={({ target }) => target.style.color = "plum"}
-                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
-                                </a>
+                            <div className='contact-info'>
+                                <div id='icons'>
+                                    <a href="https://www.linkedin.com/in/antonie-yu-chi-huang/" target="_blank" rel="noopener noreferrer">
+                                        <FaLinkedinIn size='2.5em'
+                                            color='#999999'
+                                            onMouseOver={({ target }) => target.style.color = "plum"}
+                                            onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                    </a>
+                                    <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
+                                        <FaGithub size='2.5em'
+                                            color='#999999'
+                                            onMouseOver={({ target }) => target.style.color = "plum"}
+                                            onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                    </a>
+                                    <a href="https://twitter.com/antoniehuang" target="_blank" rel="noopener noreferrer">
+                                        <FaTwitter size='2.5em'
+                                            color='#999999'
+                                            onMouseOver={({ target }) => target.style.color = "plum"}
+                                            onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                    </a>
+                                </div>
+                                <span id='short-contact-info'>or email me @ antonieyuchi@gmail.com</span>
                             </div>
-                            <span id='short-contact-info'>or email me @ antonieyuchi@gmail.com</span>
                         </article>
                     </Col>
                     <Col className='col-md-auto d-flex justify-content-center'>
