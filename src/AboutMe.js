@@ -12,7 +12,7 @@ const AboutMe = () => {
             <div className='post m-3'>
                 <Row>
                     <Col>
-                        <h1>Antonie (Yu-Chi) Huang</h1>
+                        <h1><span class="font-wight-bold">Antonie </span>(Yu-Chi) Huang</h1>
                         <p>Full Stack Deep Learning Developer</p>
                     </Col>
                 </Row>
@@ -52,12 +52,16 @@ const AboutMe = () => {
                                         onMouseOut={({ target }) => target.style.color = "#999999"} />
                                 </a>
                             </div>
+                            <span id='short-contact-info'>or email me @ antonieyuchi@gmail.com</span>
                         </article>
                     </Col>
                     <Col className='col-md-auto d-flex justify-content-center'>
-                        <Image src="img/prof_pic.jpeg" id="prof-pic" className='z-depth-1' fluid rounded
+                        <Image src="img/prof_pic.jpeg" id="prof-pic" fluid rounded
                             alt="An image of myself with a tucan!"></Image>
                     </Col>
+                    <Row>
+
+                    </Row>
                 </Row>
             </div>
         </Container >

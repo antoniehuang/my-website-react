@@ -1,5 +1,7 @@
-h1 {
-  color: purple
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Quicksand&family=Work+Sans&display=swap');
+
+* {
+  font-family: 'Mulish', sans-serif;
 }
 
 #about-me {
@@ -13,7 +15,7 @@ h1 {
 }
 
 #prof-pic {
-  max-width: 250px;
+  max-width: 300px;
 }
 
 #nav-buttons a:hover {
@@ -28,4 +30,16 @@ h1 {
   padding: 15px;
   display: flex;
   justify-content: space-evenly;
+}
+
+#short-contact-info {
+  display: flex;
+  padding-bottom: 15px;
+  font-size: 15px;
+  justify-content: center;
+}
+
+.font-wight-bold {
+  font-weight: bold;
+  color: purple;
 }
