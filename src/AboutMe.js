@@ -2,6 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
+import { BsGithub } from "react-icons/bs";
 
 const AboutMe = () => {
     return (
@@ -35,6 +36,9 @@ const AboutMe = () => {
                         <Image src="img/prof_pic.jpeg" id="prof-pic" className='z-depth-1' fluid rounded
                             alt="An image of myself with a tucan!"></Image>
                     </Col>
+                </Row>
+                <Row>
+                    <BsGithub />
                 </Row>
             </div>
         </Container >
