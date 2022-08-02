@@ -6,22 +6,29 @@ import { LinkContainer } from 'react-router-bootstrap'
 
 const NavBar = () => {
     return (
-        <Navbar bg="light" expand="lg">
-            <Container>
-                <Navbar.Brand href="#"></Navbar.Brand>
-                <Navbar.Toggle aria-controls="basic-navbar-nav" />
-                <Navbar.Collapse id="basic-navbar-nav">
-                    <Nav id='nav-buttons' className="me-auto">
-                        <LinkContainer to='/'>
-                            <Nav.Link>about</Nav.Link>
-                        </LinkContainer>
-                        <LinkContainer to='/blog'>
-                            <Nav.Link>blog</Nav.Link>
-                        </LinkContainer>
-                    </Nav>
-                </Navbar.Collapse>
-            </Container>
-        </Navbar>
+        <Container className='d-flex justify-content-center'>
+            <Navbar >
+                <Container>
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse id="basic-navbar-nav">
+                        <Nav id='nav-buttons'>
+                            <LinkContainer to='/'>
+                                <Nav.Link>about</Nav.Link>
+                            </LinkContainer>
+                            <LinkContainer to='/blog'>
+                                <Nav.Link>blog</Nav.Link>
+                            </LinkContainer>
+                            <LinkContainer to='/cv'>
+                                <Nav.Link>cv</Nav.Link>
+                            </LinkContainer>
+                            <LinkContainer to='/projects'>
+                                <Nav.Link>projects</Nav.Link>
+                            </LinkContainer>
+                        </Nav>
+                    </Navbar.Collapse>
+                </Container>
+            </Navbar>
+        </Container>
     );
 }
 
