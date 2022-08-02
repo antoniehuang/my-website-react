@@ -15,3 +15,11 @@ h1 {
 #prof-pic {
   max-width: 250px;
 }
+
+#nav-buttons a:hover {
+  color: plum;
+}
+
+#nav-buutons {
+  color: black;
+}
