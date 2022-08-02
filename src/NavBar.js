@@ -5,7 +5,7 @@ import { LinkContainer } from 'react-router-bootstrap'
 
 const NavBar = () => {
     return (
-        <Container className='d-flex justify-content-center'>
+        <Container className='d-flex justify-content-center border-bottom'>
             <Navbar >
                 <Container>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />

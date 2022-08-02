@@ -19,3 +19,7 @@ h1 {
 #nav-buttons a:hover {
   color: plum;
 }
+
+#nav-buttons {
+  font-size: 20px;
+}
