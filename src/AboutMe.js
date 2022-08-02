@@ -2,7 +2,9 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-import { BsGithub } from "react-icons/bs";
+import { FaGithub } from 'react-icons/fa';
+import { FaLinkedinIn } from 'react-icons/fa';
+import { FaTwitter } from 'react-icons/fa';
 
 const AboutMe = () => {
     return (
@@ -30,15 +32,32 @@ const AboutMe = () => {
                                 agents.
                             </p>
                             <p>You can connect with me by clicking the icons below!</p>
+                            <div id='icons'>
+                                <a href="https://www.linkedin.com/in/antonie-yu-chi-huang/" target="_blank" rel="noopener noreferrer">
+                                    <FaLinkedinIn size='2.5em'
+                                        color='#999999'
+                                        onMouseOver={({ target }) => target.style.color = "plum"}
+                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                </a>
+                                <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
+                                    <FaGithub size='2.5em'
+                                        color='#999999'
+                                        onMouseOver={({ target }) => target.style.color = "plum"}
+                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                </a>
+                                <a href="https://twitter.com/antoniehuang" target="_blank" rel="noopener noreferrer">
+                                    <FaTwitter size='2.5em'
+                                        color='#999999'
+                                        onMouseOver={({ target }) => target.style.color = "plum"}
+                                        onMouseOut={({ target }) => target.style.color = "#999999"} />
+                                </a>
+                            </div>
                         </article>
                     </Col>
                     <Col className='col-md-auto d-flex justify-content-center'>
                         <Image src="img/prof_pic.jpeg" id="prof-pic" className='z-depth-1' fluid rounded
                             alt="An image of myself with a tucan!"></Image>
                     </Col>
-                </Row>
-                <Row>
-                    <BsGithub />
                 </Row>
             </div>
         </Container >
