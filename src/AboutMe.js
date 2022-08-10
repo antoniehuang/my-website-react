@@ -40,7 +40,7 @@ const AboutMe = () => {
                                             onMouseOver={({ target }) => target.style.color = "plum"}
                                             onMouseOut={({ target }) => target.style.color = "#999999"} />
                                     </a>
-                                    <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
+                                    <a href="https://www.github.com/antoniehuang" target="_blank" rel="noopener noreferrer">
                                         <FaGithub size='2.5em'
                                             color='#999999'
                                             onMouseOver={({ target }) => target.style.color = "plum"}
