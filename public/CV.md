@@ -25,13 +25,10 @@
 **University of Birmingham**, Birmingham, UK - `Sep 2019 - Jun 2022`
 
 **BSc Artificial Intelligence and Computer Science** - First Class Honours
-- **Final Year Project**: Semi‑Supervised Learning with Pseudo‑labelling and Synthetic Samples. Where I investigated the effectiveness of using synthetic samples generated from a Generative Adversarial Network and pseudo‑labelling tech‑
-nique for the task of improving image classification accuracy on the CIFAR‑10 dataset.
+- **Final Year Project**: Semi‑Supervised Learning with Pseudo‑labelling and Synthetic Samples. Where I investigated the effectiveness of using synthetic samples generated from a Generative Adversarial Network and pseudo‑labelling technique for the task of improving image classification accuracy on the CIFAR‑10 dataset.
 - Led a team project on semantic segmentation on cardiovascular MR images with a custom U‑Net architecture. Achieved Dice coefficient of 0.8.
-- Designed and built a demining robot that sweeps the environment to identify toy land mines and remove them. Built with Lego EV3, ultra‑
-sonic/color sensor and OpenRoberta.
-- Robot Supermarket Assistance, a group project where we designed and implemented a robot with ROS, that would build a map of the super‑
-market using SLAM and QR code to locate grocery aisles and traverse to the given aisle with the Dijkstra’s shortest path algorithm upon request.
+- Designed and built a demining robot that sweeps the environment to identify toy land mines and remove them. Built with Lego EV3, ultrasonic/color sensor and OpenRoberta.
+- Robot Supermarket Assistance, a group project where we designed and implemented a robot with ROS, that would build a map of the supermarket using SLAM and QR code to locate grocery aisles and traverse to the given aisle with the Dijkstra’s shortest path algorithm upon request.
 - Group project where we designed the specifications for a remote learning platform whilst employing software engineering practices (e.g. Scrum,
 requirements engineering, UML diagrams and testing strategies).
 
@@ -42,7 +39,7 @@ requirements engineering, UML diagrams and testing strategies).
 challenges which the token could face. I am also responsible for developing the Ethereum NFT (ERC‑721) smart contract for the token.
 
 **St. David's Catholic College**, Cardiff, UK - `Sep 2017 - Jul 2019`
-- Math (A), Business (A), Chinese (A*), Information Technology ‑ (Distinction*), Welsh Bacc ‑ (B)
+- Math (A), Business (A), Chinese (A*), Information Technology (Distinction*), Welsh Bacc (B)
 
 **Kings Monkton School, Cardiff**, UK - `Nov 2015 - Jul 2017`
 - 13 GCSEs, including Maths Numeracy/Math (A*/A) and English (C)
@@ -52,8 +49,7 @@ challenges which the token could face. I am also responsible for developing the 
 ## Work Experience
 
 **University of Birmingham**, Birmingham, UK - `Jan 2020 - Jun 2022`
-- Worked with the ambassador team to run open and offer holder days, responsibilities includes sharing advice/personal experiences to prospec‑
-tive students/parents and setting up the event venue.
+- Worked with the ambassador team to run open and offer holder days, responsibilities includes sharing advice/personal experiences to prospective students/parents and setting up the event venue.
 - Ran multiple campus/building tours both individually and as a team.
 - Setup and demonstrated robotics projects for prospective students and parents
 
