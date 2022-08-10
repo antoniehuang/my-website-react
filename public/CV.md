@@ -66,5 +66,9 @@ challenges which the token could face. I am also responsible for developing the 
 training with multiple GPUs using Horovod.
 - Designed an energy/cost‑efficient HPC cluster with 15 server racks, where our design was the most efficient
 
+[Interview](https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022-winners-interview/)
+
+[Blog](https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022/)
+
 **UKMT’s Math Challenge**, Cardiff, UK - `2017`
 - Silver Certificate
