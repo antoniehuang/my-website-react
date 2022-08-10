@@ -6,10 +6,10 @@ Blobodoro is a Blob fish study companion app that allows you to set Pomodoro tim
 
 Built with HTML/CSS/JavaScript (Node.js, Express, MongoDB)
 
-<img id="blob-logo" src="/img/Blobodoro-Logo-V6.png" alt="Blobodoro's Logo" width="200" />
+<img id="blob-logo" src="/img/Blobodoro-Logo-V7.png" alt="Blobodoro's Logo" width="200" />
 
 
-<p class="blob-quote">"I promise, I'll smile after you study with me! ~Blob~"</p>
+<p class="blob-quote">"~Blob~"</p>
 <div class="github-icon">
     <i class="fab fa-github" aria-hidden="true"></i><span> </span><a href="https://github.com/antoniehuang/Blobodoro" style="color: rgb(185, 61, 185);" target="_blank">Blobodoro</a>
 </div>
