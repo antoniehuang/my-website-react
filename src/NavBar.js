@@ -14,9 +14,11 @@ const NavBar = () => {
                             <LinkContainer to='/'>
                                 <Nav.Link>about</Nav.Link>
                             </LinkContainer>
-                            <LinkContainer to='/blog'>
+
+                            {/* <LinkContainer to='/blog'>
                                 <Nav.Link>blog</Nav.Link>
-                            </LinkContainer>
+                            </LinkContainer> */}
+
                             <LinkContainer to='/cv'>
                                 <Nav.Link>cv</Nav.Link>
                             </LinkContainer>

@@ -7,6 +7,7 @@ import { Alert } from 'react-bootstrap';
 import NavBar from './NavBar';
 import AboutMe from './AboutMe';
 import Blog from './Blog';
+import PageComponent from './mdBlog';
 
 function App() {
   return (
@@ -23,6 +24,9 @@ function App() {
             </Route>
             <Route exact path='/blog'>
               <Blog />
+            </Route>
+            <Route exact path='/cv'>
+              <PageComponent />
             </Route>
           </Switch>
         </div>

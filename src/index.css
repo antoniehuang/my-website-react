@@ -48,3 +48,14 @@
   padding: 10px;
   margin: 20px;
 }
+
+#cv {
+  text-align: left;
+  max-width: 800px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 35px;
+  text-align: left;
+}
