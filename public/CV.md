@@ -3,10 +3,10 @@
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
 
-<div>
-<i class="fa fa-at" aria-hidden="true"></i><span> </span><a href="mailto:antonieyuchi@gmail.com">antonieyuchi@gmail.com</a> /
-<i class="fab fa-linkedin-in" aria-hidden="true"></i><span> </span><a href="https://www.linkedin.com/in/antonie-yu-chi-huang" target="_blank">antonie (yu-chi) huang</a> /
-<i class="fab fa-github" aria-hidden="true"></i><span> </span><a href="https://github.com/antoniehuang" target="_blank">antoniehuang</a>
+<div class="cv-links">
+<i class="fa fa-at" aria-hidden="true"></i><span> </span><a href="mailto:antonieyuchi@gmail.com" style="color: rgb(185, 61, 185);">antonieyuchi@gmail.com</a> /
+<i class="fab fa-linkedin-in" aria-hidden="true"></i><span> </span><a href="https://www.linkedin.com/in/antonie-yu-chi-huang" style="color: rgb(185, 61, 185);" target="_blank">antonie (yu-chi) huang</a> /
+<i class="fab fa-github" aria-hidden="true"></i><span> </span><a href="https://github.com/antoniehuang" style="color: rgb(185, 61, 185);" target="_blank">antoniehuang</a>
 </div> 
 
 
