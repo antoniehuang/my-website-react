@@ -8,6 +8,8 @@ import AboutMe from './AboutMe';
 import Blog from './Blog';
 import PageComponent from './mdBlog';
 import ProjectPageComponent from './mdProjects';
+import Navbar from 'react-bootstrap/Navbar';
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
@@ -34,6 +36,11 @@ function App() {
           </Switch>
         </div>
       </div >
+      <Navbar class="footer" expand="lg" variant="light" bg="light">
+        <Container>
+          <p>© Copyright 2022 Antonie Yu-Chi Huang</p>
+        </Container>
+      </Navbar>
     </Router>
   );
 }
