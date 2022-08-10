@@ -8,6 +8,7 @@ import NavBar from './NavBar';
 import AboutMe from './AboutMe';
 import Blog from './Blog';
 import PageComponent from './mdBlog';
+import ProjectPageComponent from './mdProjects';
 
 function App() {
   return (
@@ -27,6 +28,9 @@ function App() {
             </Route>
             <Route exact path='/cv'>
               <PageComponent />
+            </Route>
+            <Route exact path='/projects'>
+              <ProjectPageComponent />
             </Route>
           </Switch>
         </div>

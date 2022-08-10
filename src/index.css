@@ -4,6 +4,10 @@
   font-family: 'Mulish', sans-serif;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 #about-me {
   text-align: left;
   max-width: 800px;
@@ -58,4 +62,20 @@
   margin-left: auto;
   margin-top: 35px;
   text-align: left;
+}
+
+#blob-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.blob-quote {
+  text-align: center;
+  margin: 10px;
+}
+
+.github-icon {
+  text-align: center;
 }
