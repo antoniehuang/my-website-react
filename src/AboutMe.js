@@ -12,7 +12,7 @@ const AboutMe = () => {
             <div className='post m-3'>
                 <Row>
                     <Col>
-                        <h1><span class="font-wight-bold">Antonie </span>(Yu-Chi) Huang</h1>
+                        <h1><span class="font-wight-bold">Antonie </span>Yu-Chi Huang</h1>
                         <p>Full Stack Deep Learning Developer</p>
                     </Col>
                 </Row>
