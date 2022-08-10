@@ -36,12 +36,12 @@ function App() {
           </Switch>
         </div>
       </div >
-      <Navbar class="footer" expand="lg" variant="light" bg="light">
+      <Navbar>
         <Container>
-          <p>© Copyright 2022 Antonie Yu-Chi Huang</p>
+          <p class="footer">© Copyright 2022 Antonie Yu-Chi Huang</p>
         </Container>
       </Navbar>
-    </Router>
+    </Router >
   );
 }
 
