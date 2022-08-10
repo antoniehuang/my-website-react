@@ -79,3 +79,8 @@ a:link {
 .github-icon {
   text-align: center;
 }
+
+#bear {
+  margin-bottom: 15px;
+  font-weight: bold;
+}

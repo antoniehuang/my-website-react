@@ -65,10 +65,11 @@ challenges which the token could face. I am also responsible for developing the 
 - Challenges involve utilising the Baskerville Tier 2 HPC system to speed up the data engineering pipeline with Dask dataframe, and deep learning
 training with multiple GPUs using Horovod.
 - Designed an energy/cost‑efficient HPC cluster with 15 server racks, where our design was the most efficient
-
-[Interview](https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022-winners-interview/)
-
-[Blog](https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022/)
+<div id="bear">
+    <a href="https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022/" style="color: rgb(185, 61, 185);">Blog</a>
+    <br>
+    <a href="https://blog.bham.ac.uk/bear/2022/07/01/bear-challenge-2022-winners-interview/" style="color: rgb(185, 61, 185);">Interview</a>
+</div>
 
 **UKMT’s Math Challenge**, Cardiff, UK - `2017`
 - Silver Certificate
