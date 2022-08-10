@@ -35,12 +35,14 @@ function App() {
             </Route>
           </Switch>
         </div>
-      </div >
-      <Navbar>
-        <Container>
-          <p class="footer">© Copyright 2022 Antonie Yu-Chi Huang</p>
-        </Container>
-      </Navbar>
+      </div>
+      <Container className='d-flex justify-content-center'>
+        <Navbar>
+          <Container id="footer">
+            <p>© Copyright 2022 Antonie Yu-Chi Huang</p>
+          </Container>
+        </Navbar>
+      </Container>
     </Router >
   );
 }
