@@ -41,7 +41,7 @@ challenges which the token could face. I am also responsible for developing the 
 **St. David's Catholic College**, Cardiff, UK - `Sep 2017 - Jul 2019`
 - Math (A), Business (A), Chinese (A*), Information Technology (Distinction*), Welsh Bacc (B)
 
-**Kings Monkton School, Cardiff**, UK - `Nov 2015 - Jul 2017`
+**Kings Monkton School**, Cardiff, UK - `Nov 2015 - Jul 2017`
 - 13 GCSEs, including Maths Numeracy/Math (A*/A) and English (C)
 
 ---
