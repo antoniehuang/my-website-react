@@ -18,7 +18,7 @@ Built with HTML/CSS/JavaScript (Node.js, Express, MongoDB)
 
 ## Clean from League
 
-Track how long ago since you played League of Legends, this is an app built for people who struggles from gaming addiction to mointor their progress and provide positive feedback.
+Track how long ago since you played League of Legends, this is an app built for people who struggles with gaming addiction to mointor their progress and provide positive feedback.
 
 <div class="github-icon">
     <i class="fab fa-github" aria-hidden="true"></i><span> </span><a href="https://github.com/antoniehuang/Clean-from-League" style="color: rgb(185, 61, 185);" target="_blank">Clean From League</a>
