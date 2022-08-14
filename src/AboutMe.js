@@ -53,7 +53,10 @@ const AboutMe = () => {
                                             onMouseOut={({ target }) => target.style.color = "#999999"} />
                                     </a>
                                 </div>
-                                <span id='short-contact-info'>or email me @ antonieyuchi@gmail.com</span>
+                                <div class='short-contact-info'>
+                                    <span>or email me at @</span>
+                                    <span id='email'> antonieyuchi@gmail.com</span>
+                                </div>
                             </div>
                         </article>
                     </Col>

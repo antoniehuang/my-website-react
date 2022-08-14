@@ -37,10 +37,10 @@ a:link {
   justify-content: space-evenly;
 }
 
-#short-contact-info {
+.short-contact-info {
   display: flex;
   font-size: 15px;
-  justify-content: center;
+  justify-content: center
 }
 
 .font-wight-bold {
@@ -88,4 +88,12 @@ a:link {
 #footer {
   text-align: center;
   margin: 30px;
+}
+
+#email:hover {
+  color: blueviolet;
+}
+
+#email {
+  margin-left: 3px;
 }
